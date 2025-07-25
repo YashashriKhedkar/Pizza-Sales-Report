@@ -1,10 +1,10 @@
-#**📊 Power BI Project: Pizza Sales Report (Data Analytics Project)**
+# 📊 Power BI Project: Pizza Sales Report (Data Analytics Project)
 
 ### **🧾 Project Summary:**
 Developed a comprehensive Sales Dashboard using Power BI to analyze one year of pizza sales data (Jan–Dec 2015), aimed at uncovering sales performance, product trends, and customer ordering behavior.
 
 
-### *🚀 I'm excited to share a recent Power BI project I completed — a Pizza Sales Report analyzing one full year of business performance (Jan–Dec 2015). This project demonstrates my end-to-end data analytics skills, from data cleaning and transformation to insightful dashboard design using the ETL process.*
+### **🚀 I'm excited to share a recent Power BI project I completed — a Pizza Sales Report analyzing one full year of business performance (Jan–Dec 2015). This project demonstrates my end-to-end data analytics skills, from data cleaning and transformation to insightful dashboard design using the ETL process.**
 
 ### **🔧 My Process (ETL Framework)**
 ### **📌 Extract:**
@@ -45,14 +45,14 @@ I imported messy raw data from multiple Excel files containing order, product, a
 * ETL concepts for end-to-end data preparation
 
 ### **🎯 What I Learned:**
-### **This project strengthened my skills in:*
+### **This project strengthened my skills in:**
 Handling large, messy datasets (20+ columns, 1M+ rows)
 Building clean, interactive dashboards
 Communicating business insights visually
 Optimizing performance and user experience
 
 ### **🎯 Final Result :**
-### **Final Result of Pizza Sales Report (Power BI Dashboard Project):*
+### **Final Result of Pizza Sales Report (Power BI Dashboard Project):**
 I successfully designed an interactive Power BI dashboard analyzing pizza sales data from January to December 2015. Using the ETL approach, I cleaned, transformed, and modeled messy sales data to uncover meaningful business insights.
 
 ### **📊 Key Business Outcomes:**
